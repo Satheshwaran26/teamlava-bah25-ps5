@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Upload, Play, Download, Zap, Satellite, Cloud, Globe, Plus, Minus, Home } from "lucide-react";
+import { Play, Zap, Satellite, Cloud, Plus, Minus, Home } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { Link } from "react-router-dom";
 import ImageUploadArea from "@/components/ImageUploadArea";
