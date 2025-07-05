@@ -1,5 +1,6 @@
 import * as React from "react"
-import { OTPInput, SlotProps } from "input-otp"
+import { OTPInput } from "input-otp"
+import type { SlotProps } from "input-otp"
 import { Dot } from "lucide-react"
 
 import { cn } from "@/lib/utils"
